@@ -10,7 +10,7 @@ Scanner s = new Scanner(System.in);
 
 String str = s.next();
 
-System.out.println("Entered: "+s);
+System.out.println("Entered: "+str);
 
 //begins
 for(int k=0; k<str.length();k++){
