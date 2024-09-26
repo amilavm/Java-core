@@ -56,3 +56,9 @@ System.out.println("Candidate mirror checked:"+ getSubString(str, 0, str.length(
 
 
 }
+
+cgvghvhjbvjn
+hgcvhgvghbvjn
+hgcvhgvghvn
+hcghvhgvhn
+cvbvhgvhn
